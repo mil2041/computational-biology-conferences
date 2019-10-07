@@ -18,7 +18,7 @@ curated list of computational biology conferences
 Conference | Dates | Submission | Location 
 -----------|-------|------------|----------
 [ISMB](https://www.iscb.org/ismbeccb2019) | Jul 21st-25th | [link](https://www.iscb.org/ismbeccb2019-submit/abstracts)| Basel, Switzerland
-[Synbiobeta](https://2019.synbiobeta.com/) | Oct 1-3rd | [link](https://2019.synbiobeta.com/register/) | SF, USA
+[Synbiobeta](https://2019.synbiobeta.com/) | Oct 1-3rd | [link](https://2019.synbiobeta.com/register/) | San Francisco, USA
 [ASHG](https://www.ashg.org/2019meeting/) | Oct 15th-19th | [link](https://www.ashg.org/2019meeting/pages/abstracts_late.shtml) | Huston, USA
 [HGVS](http://events.hgvs.org/home.html) | Oct 15th | [link](http://events.hgvs.org/abstracts.html) | Huston, USA
 [Allen Frontiers Symposium](https://alleninstitute.org/what-we-do/frontiers-group/events/allen-frontiers-symp-2019/) | Oct 16-17th | [link](http://engage.alleninstitute.org/site/Calendar?id=101124&view=Detail) | Boston, USA
