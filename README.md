@@ -21,7 +21,7 @@ Conference | Dates | Submission | Location
 [Synbiobeta](https://2019.synbiobeta.com/) | Oct 1-3rd | [link](https://2019.synbiobeta.com/register/) | SF, USA
 [ASHG](https://www.ashg.org/2019meeting/) | Oct 15th-19th | [link](https://www.ashg.org/2019meeting/pages/abstracts_late.shtml) | Huston, USA
 [HGVS](http://events.hgvs.org/home.html) | Oct 15th | [link](http://events.hgvs.org/abstracts.html) | Huston, USA
-[Allen Frontiers Symposium](https://alleninstitute.org/what-we-do/frontiers-group/events/allen-frontiers-symp-2019/) | Oct 16-17th | link | Boston, USA
+[Allen Frontiers Symposium](https://alleninstitute.org/what-we-do/frontiers-group/events/allen-frontiers-symp-2019/) | Oct 16-17th | [link](http://engage.alleninstitute.org/site/Calendar?id=101124&view=Detail) | Boston, USA
 [RECOMB/ISCB](https://www.iscb.org/recomb-regsysgen2019-program/recomb-regsysgen2019-oral-schedule) | Nov 4-6th | [link](https://www.iscb.org/recomb-regsysgen2019-submissions/recomb-regsysgen2019-oral-submissions) | New York, USA
 [4DN-ASCB](https://4dn-annual-meetings.smapply.io/) | Dec 5th-6th | [link](unknown) | Washington DC, USA
 [ASCB](https://www.ascb.org/2019ascbembo/) | Dec 7th-11th | [link](https://www.ascb.org/2019ascbembo/abstracts/) | Washington DC, USA
