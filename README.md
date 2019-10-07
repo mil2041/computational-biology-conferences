@@ -2,16 +2,16 @@
 curated list of computational biology conferences
 
 ### Allen Institute
-[Events at Allen Institute](https://alleninstitute.org/events-training/)
+* [Events at Allen Institute](https://alleninstitute.org/events-training/)
 
 ### Keystone Symposia
-[Events](http://www.keystonesymposia.org/)
+* [Events](http://www.keystonesymposia.org/)
 
 ### Gordon Research Conferences
-[Events](https://www.grc.org/)
+* [Events](https://www.grc.org/)
 
 ### Cold Spring Harbor Laboratory
-[Events](https://meetings.cshl.edu/)
+* [Events](https://meetings.cshl.edu/)
 
 ## 2019
 
