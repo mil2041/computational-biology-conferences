@@ -1,6 +1,9 @@
 # computational-biology-conferences
 curated list of computational biology conferences
 
+### EMBO | EMBL Symposia
+* [Events](https://www.embo-embl-symposia.org/index.php)
+
 ### Allen Institute
 * [Events at Allen Institute](https://alleninstitute.org/events-training/)
 
