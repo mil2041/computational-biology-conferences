@@ -27,6 +27,7 @@ Conference | Dates | Submission | Location
 [Allen Frontiers Symposium](https://alleninstitute.org/what-we-do/frontiers-group/events/allen-frontiers-symp-2019/) | Oct 16-17th | [link](http://engage.alleninstitute.org/site/Calendar?id=101124&view=Detail) | Boston, USA
 [NYSCF](https://nyscf.org/events/conference/) | Oct 22nd-23rd | link | New York, USA
 [RECOMB/ISCB](https://www.iscb.org/recomb-regsysgen2019-program/recomb-regsysgen2019-oral-schedule) | Nov 4-6th | [link](https://www.iscb.org/recomb-regsysgen2019-submissions/recomb-regsysgen2019-oral-submissions) | New York, USA
+[SITC](https://www.sitcancer.org/2019/program/annual-meeting) | Nov 7-10th | [link](https://www.sitcancer.org/2019/abstracts/publications) | Maryland, USA
 [4DN-ASCB](https://4dn-annual-meetings.smapply.io/) | Dec 5th-6th | [link](unknown) | Washington DC, USA
 [ASCB](https://www.ascb.org/2019ascbembo/) | Dec 7th-11th | [link](https://www.ascb.org/2019ascbembo/abstracts/) | Washington DC, USA
 [ASH](https://www.hematology.org/Annual-Meeting/) | Dec 7th-10th | [link](https://www.hematology.org/Annual-Meeting/Abstracts/) | Orlando, USA
