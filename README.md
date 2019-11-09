@@ -27,6 +27,7 @@ Conference | Dates | Submission | Location
 [Allen Frontiers Symposium](https://alleninstitute.org/what-we-do/frontiers-group/events/allen-frontiers-symp-2019/) | Oct 16-17th | [link](http://engage.alleninstitute.org/site/Calendar?id=101124&view=Detail) | Boston, USA
 [NYSCF](https://nyscf.org/events/conference/) | Oct 22nd-23rd | link | New York, USA
 [RECOMB/ISCB](https://www.iscb.org/recomb-regsysgen2019-program/recomb-regsysgen2019-oral-schedule) | Nov 4-6th | [link](https://www.iscb.org/recomb-regsysgen2019-submissions/recomb-regsysgen2019-oral-submissions) | New York, USA
+[Genome Informatics](https://meetings.cshl.edu/meetings.aspx?meet=INFO&year=19) | Nov 6-9th | [link](https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=19) | New York, USA
 [SITC](https://www.sitcancer.org/2019/program/annual-meeting) | Nov 7-10th | [link](https://www.sitcancer.org/2019/abstracts/publications) | Maryland, USA
 [4DN-ASCB](https://4dn-annual-meetings.smapply.io/) | Dec 5th-6th | [link](unknown) | Washington DC, USA
 [ASCB](https://www.ascb.org/2019ascbembo/) | Dec 7th-11th | [link](https://www.ascb.org/2019ascbembo/abstracts/) | Washington DC, USA
@@ -40,4 +41,5 @@ Conference | Dates | Submission | Location
 Conference | Dates | Submission | Location 
 -----------|-------|------------|----------
 [AGBT](https://www.agbt.org/the-general-meeting/) | Feb 23-26th | link | FL, USA
+[Systems Biology: Global Regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=20) | March 11-14th | [link](https://meetings.cshl.edu/abstracts.aspx?meet=SYSTEMS&year=20) | New York, USA
 [AACR](https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=213&DetailItemID=1057) | April 24-29th | link | San Diego, USA
