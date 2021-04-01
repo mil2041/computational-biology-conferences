@@ -16,6 +16,22 @@ curated list of computational biology conferences
 ### Cold Spring Harbor Laboratory
 * [Events](https://meetings.cshl.edu/)
 
+## 2021
+
+Conference | Dates | Submission | Location 
+-----------|-------|------------|----------
+[Cancer Discovery Symposium](https://www.aacr.org/meeting/cancer-discovery-10th-anniversary-symposium-the-next-decade-of-discoveries/) | June 21-22 | link | Virtually
+
+
+## 2020
+
+Conference | Dates | Submission | Location 
+-----------|-------|------------|----------
+[AGBT](https://www.agbt.org/the-general-meeting/) | Feb 23-26th | link | FL, USA
+[Systems Biology: Global Regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=20) | March 11-14th | [link](https://meetings.cshl.edu/abstracts.aspx?meet=SYSTEMS&year=20) | New York, USA
+[AACR](https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=213&DetailItemID=1057) | April 24-29th | link | San Diego, USA
+
+
 ## 2019
 
 Conference | Dates | Submission | Location 
@@ -36,10 +52,4 @@ Conference | Dates | Submission | Location
 [LMRL](https://lmrl-bio.github.io/) | Dec 13th-14th | [link](https://lmrl-bio.github.io/call) | Vancouver, CANADA 
 [MLCB](https://mlcb.github.io/) | Dec 13th-14th | [link](https://easychair.org/account/signin?l=t8803VSZpkL2VOFk87xpjU) | Vancouver, CANADA 
 
-## 2020
 
-Conference | Dates | Submission | Location 
------------|-------|------------|----------
-[AGBT](https://www.agbt.org/the-general-meeting/) | Feb 23-26th | link | FL, USA
-[Systems Biology: Global Regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=20) | March 11-14th | [link](https://meetings.cshl.edu/abstracts.aspx?meet=SYSTEMS&year=20) | New York, USA
-[AACR](https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=213&DetailItemID=1057) | April 24-29th | link | San Diego, USA
