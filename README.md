@@ -21,6 +21,7 @@ Conference | Dates | Submission | Location
 -----------|-------|------------|----------
 [AACR](https://www.aacr.org/meeting/aacr-annual-meeting-2023/) | April 14-19 | link | Orlando, USA
 [ASCO](https://conferences.asco.org/am/attend) | June 2-6 | link | Chicago, USA
+[ICML](https://icml.cc) | Jul 23 - 29 | link | Hawaii, USA
 [The conceptual power of single cell biology](https://www.cell-symposia.com/conceptual-single-cells-2023) | Aug 28-30 | link | San Diego, USA
 [Single cell genomics](https://www.weizmann.ac.il/conferences/SCG2023/) | Oct 17-19 | link | Swiss
 [SITC](https://www.sitcancer.org/2023/home) | Nov 1-5 | link | San Diego, USA
