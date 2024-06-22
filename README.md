@@ -16,6 +16,19 @@ curated list of computational biology conferences
 ### Cold Spring Harbor Laboratory
 * [Events](https://meetings.cshl.edu/)
 
+## 2024
+Conference | Dates | Submission | Location 
+-----------|-------|------------|----------
+[AACR](https://www.aacr.org/meeting/aacr-annual-meeting-2024/) | April 4-10 | link | San Diego, USA
+[ASCO](https://conferences.asco.org/am/attend) | May 31 - June 4 | link | Chicago, USA
+[CVPR](https://cvpr.thecvf.com/) | June 17 - 21 | link | Seattle, USA
+[ICML](https://icml.cc) | Jul 23 - 29 | link | Hawaii, USA
+[MLCB](https://mlcb.github.io/) | Sep 5th-6th | link | Seattle, USA
+[Single cell genomics](https://conferences.weizmann.ac.il/SCG2024/) | Sep 16-18 | link | Greece
+[MICCAI](https://conferences.miccai.org/2024/en/) | Otc 6-10 | link | Morocco 
+[SITC](https://www.sitcancer.org/2024/home) | Nov 6-10 | link | Houston, USA
+[NeuralPS](https://nips.cc) | Dec 9 - Dec 15 | link | Vancouver, USA
+
 ## 2023
 Conference | Dates | Submission | Location 
 -----------|-------|------------|----------
