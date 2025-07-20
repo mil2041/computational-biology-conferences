@@ -17,12 +17,12 @@ curated list of computational biology conferences
 * [Events](https://meetings.cshl.edu/)
 
 ## 2025
-onference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [CADD GRC](https://www.grc.org/computer-aided-drug-design-conference/2025/) | July 13-18 | link | Portland, Maine, USA
 
 ## 2024
-Conference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [AACR](https://www.aacr.org/meeting/aacr-annual-meeting-2024/) | April 4-10 | link | San Diego, USA
 [ASCO](https://conferences.asco.org/am/attend) | May 31 - June 4 | link | Chicago, USA
@@ -35,7 +35,7 @@ Conference | Dates | Submission | Location
 [NeuralPS](https://nips.cc) | Dec 9 - Dec 15 | link | Vancouver, USA
 
 ## 2023
-Conference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [AACR](https://www.aacr.org/meeting/aacr-annual-meeting-2023/) | April 14-19 | link | Orlando, USA
 [SCP](https://single-cell.net/proteomics/scp2023) | June 1-2 | link | Boston, USA
@@ -52,14 +52,14 @@ Conference | Dates | Submission | Location
 
 ## 2021
 
-Conference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [Cancer Discovery Symposium](https://www.aacr.org/meeting/cancer-discovery-10th-anniversary-symposium-the-next-decade-of-discoveries/) | June 21-22 | link | Virtually
 
 
 ## 2020
 
-Conference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [AGBT](https://www.agbt.org/the-general-meeting/) | Feb 23-26th | link | FL, USA
 [Systems Biology: Global Regulation of Gene Expression](https://meetings.cshl.edu/meetings.aspx?meet=SYSTEMS&year=20) | March 11-14th | [link](https://meetings.cshl.edu/abstracts.aspx?meet=SYSTEMS&year=20) | New York, USA
@@ -68,7 +68,7 @@ Conference | Dates | Submission | Location
 
 ## 2019
 
-Conference | Dates | Submission | Location 
+Conference | Date | Submission | Location 
 -----------|-------|------------|----------
 [ISMB](https://www.iscb.org/ismbeccb2019) | Jul 21st-25th | [link](https://www.iscb.org/ismbeccb2019-submit/abstracts)| Basel, Switzerland
 [Synbiobeta](https://2019.synbiobeta.com/) | Oct 1-3rd | [link](https://2019.synbiobeta.com/register/) | San Francisco, USA
