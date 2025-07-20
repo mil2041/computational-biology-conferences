@@ -16,6 +16,11 @@ curated list of computational biology conferences
 ### Cold Spring Harbor Laboratory
 * [Events](https://meetings.cshl.edu/)
 
+## 2025
+onference | Dates | Submission | Location 
+-----------|-------|------------|----------
+[CADD GRC](https://www.grc.org/computer-aided-drug-design-conference/2025/) | July 13-18 | link | Portland, Maine, USA
+
 ## 2024
 Conference | Dates | Submission | Location 
 -----------|-------|------------|----------
